@@ -238,4 +238,8 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Accesorio (opcional)*: Cargue hasta cinco archivos adjuntos, uno a la vez.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Los archivos adjuntos están limitados a 25 MB por archivo. Se admiten las siguientes extensiones de archivo: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx y csv.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Actualizar notas de caso*: Proporcione detalles adicionales sobre su problema o seleccione *cargar archivos* para adjuntar hasta un máximo de cinco archivos.</block>
+  <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">Eficiencia económica</block>
+  <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">Identificar clusters con baja capacidad actual o prevista e implementar niveles de datos o recomendaciones adicionales de capacidad.</block>
+  <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">Resiliencia operativa</block>
+  <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">Implementar las soluciones de riesgo de configuración automatizadas del firmware y el software para mantener el estado de los clústeres ONTAP.</block>
 </blocks>
