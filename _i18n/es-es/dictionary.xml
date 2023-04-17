@@ -147,36 +147,25 @@
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">Conozca las novedades de BlueXP.</block>
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">Utilice todas las funcionalidades de ONTAP como servicio nativo gestionado por AWS.</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">Administre sus recursos basados en la nube mediante programación.</block>
-  <block id="ca9106b8b82ff55b6fdce530ccb952a7" category="sidebar">AppTemplate</block>
   <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">Automatizar acciones en BlueXP para acelerar la provisión y eliminar el trabajo manual.</block>
   <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">Servicio de almacenamiento de archivos de alto rendimiento para las aplicaciones principales de la empresa.</block>
-  <block id="dad57e95fc9a5390302ad830888cbdb9" category="sidebar">Backup en el cloud</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">Realice backups y restauraciones de datos en el cloud y en las instalaciones.</block>
-  <block id="d882bf73cd5caf1e5aa39edbf893ad74" category="sidebar">Cloud Data SENSE</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">Consiga que los datos de aplicaciones y los entornos de cloud estén listos para la privacidad.</block>
-  <block id="b4f83b03956523a39e8bbbd0895f0f29" category="sidebar">Cloud Insights</block>
-  <block id="c50b91dc494c1ae78bb56ca7f5fb13a9" category="sidebar">Controle el rendimiento y el uso de sus cargas de trabajo del cloud.</block>
-  <block id="e367efbc26bd12c0d6ae37dd6a55ef9b" category="sidebar">Cloud Sync</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">Sincronice datos entre almacenes de datos en las instalaciones y en el cloud.</block>
-  <block id="92d2b6aba6afa3f690540cf3dba9b633" category="sidebar">Organización en niveles del cloud</block>
   <block id="c6844dc3fe4e51f03d9c9209b1f58fc4" category="sidebar">Lleve su almacenamiento ONTAP en las instalaciones al cloud.</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">Haga que su almacenamiento en cloud sea más asequible, inteligente, conforme a las normativas y seguro.</block>
   <block id="06021ba1ee96f1a3a57b50001fc7244c" category="sidebar">Cloud Volumes Service para AWS</block>
   <block id="d63057df831de033bf2e3c5f97ec80ba" category="sidebar">Un servicio de archivos nativo del cloud con rendimiento all-flash.</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">Asegure, proteja y acelere su almacenamiento de archivos.</block>
-  <block id="a623a8d0366bf079411aa30be45b2d10" category="sidebar">Informática</block>
   <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">Obtenga visibilidad de sus gastos en tecnología cloud e identifique posibles ahorros.</block>
-  <block id="3de329d856b09fe94d05567c4761f82d" category="sidebar">Asesor digital (anteriormente Active IQ)</block>
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">Información procesable para un estado óptimo del almacenamiento.</block>
   <block id="6b068f0a943d421535c7d8d412ee3522" category="sidebar">Sistemas E-Series</block>
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">Descubra los sistemas E-Series para obtener una visión completa de los datos en su multicloud híbrido.</block>
-  <block id="24e6e2f6171b43a847fe194a9a9b5cd0" category="sidebar">Caché de archivos global</block>
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">Haga posible el uso compartido de archivos global en tiempo real para su personal distribuido.</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Clústeres de Kubernetes</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">Gestión de datos avanzada de los clústeres de Kubernetes en el cloud híbrido.</block>
   <block id="19874606c485ce682436c45308e50186" category="sidebar">Gestione sus sistemas AFF y FAS de NetApp desde BlueXP con los servicios de datos de System Manager y BlueXP.</block>
-  <block id="950604af87c30e09716e6d097eb491db" category="sidebar">Protección contra ransomware</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">Evalúe cómo la resiliencia de sus datos frente a un ataque cibernético.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">Replicación</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">Replicar datos entre sistemas de almacenamiento para dar soporte a backup y recuperación ante desastres</block>
@@ -236,11 +225,21 @@
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">Identificar clusters con baja capacidad actual o prevista e implementar niveles de datos o recomendaciones adicionales de capacidad.</block>
   <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">Resiliencia operativa</block>
   <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">Implementar las soluciones de riesgo de configuración automatizadas del firmware y el software para mantener el estado de los clústeres ONTAP.</block>
-  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">BlueXP de NetApp proporciona a su organización un único plano de control para crear, proteger y dirigir los datos entre sus entornos de cloud y en las instalaciones. Examine los documentos por área de producto o utilice la búsqueda anterior para buscar contenido en cualquier parte de los documentos de BlueXP.</block>
   <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXP es una evolución de Cloud Manager. BlueXP es un plano de control unificado que proporciona una experiencia multicloud híbrida para servicios de almacenamiento y datos en los entornos de almacenamiento y de cloud en las instalaciones.</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">Clústeres de ONTAP en las instalaciones</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">Configuración y administración</block>
-  <block id="986e1f3279b4d74444bd32d4f833afbd" category="sidebar">Cartera digital</block>
   <block id="5928ade999566a2ca0d839d3c191b3f1" category="sidebar">Administre y supervise sus licencias y suscripciones.</block>
+  <block id="bd4152637ad88c0eb060a24cddfba1f9" category="summary">NetApp BlueXP (Cloud Manager) proporciona a tu organización un único plano de control para crear, proteger y gobernar datos en tus entornos on-premises y de nube. Examine los documentos por área de producto o utilice la búsqueda anterior para buscar contenido en cualquier parte de los documentos de BlueXP.</block>
+  <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">Amazon FSX para ONTAP de NetApp</block>
+  <block id="1220376b19b37830a4bf0ca859f13117" category="sidebar">Backup y recuperación de datos (Cloud Backup)</block>
+  <block id="ab3c79949a956f4792a7697fdb989ee5" category="sidebar">Clasificación (Cloud Data Sense)</block>
+  <block id="050e5016f7040ceedbd80731cdf796db" category="sidebar">Operaciones de cloud (computación)</block>
+  <block id="2b09a63dc379266e4ddebf30644e5566" category="sidebar">Copia y sincronización (Cloud Sync)</block>
+  <block id="457d79994b70adbf238bafd0fea18cb2" category="sidebar">Asesor digital (Active IQ)</block>
+  <block id="2049421a4e8e45e83cd7cf18ffc00a12" category="sidebar">Cartera digital</block>
+  <block id="283a34872fecedd9a307e184eaf214e5" category="sidebar">Almacenamiento en caché en el perímetro (Global File Cache)</block>
+  <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">Protección contra ransomware</block>
+  <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">Solución (AppTemplate)</block>
+  <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">Organización en niveles (organización en niveles del cloud)</block>
 </blocks>

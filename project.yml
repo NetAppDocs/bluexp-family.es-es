@@ -53,7 +53,7 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
     summary: Conozca las novedades de BlueXP.
     tags: all
-  - title: Amazon FSX para ONTAP
+  - title: Amazon FSX para ONTAP de NetApp
     icon: "./media/icon-fsx.png"
     url: https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/index.html
     summary: Utilice todas las funcionalidades de ONTAP como servicio nativo gestionado
@@ -69,45 +69,29 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
     summary: Administre sus recursos basados en la nube mediante programación.
     tags: all, api
-  - title: AppTemplate
-    icon: "./media/icon-app-template.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
-    summary: Automatizar acciones en BlueXP para acelerar la provisión y eliminar
-      el trabajo manual.
-    tags: all, health
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
     url: https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/index.html
     summary: Servicio de almacenamiento de archivos de alto rendimiento para las aplicaciones
       principales de la empresa.
     tags: all, storage, azure
-  - title: Backup en el cloud
+  - title: Backup y recuperación de datos (Cloud Backup)
     icon: "./media/icon-backup.png"
     url: https://docs.netapp.com/us-en/cloud-manager-backup-restore/index.html
     summary: Realice backups y restauraciones de datos en el cloud y en las instalaciones.
     tags: all, aws, azure, gcp, protection
-  - title: Cloud Data SENSE
+  - title: Clasificación (Cloud Data Sense)
     icon: "./media/icon-data-sense.png"
     url: https://docs.netapp.com/us-en/cloud-manager-data-sense/index.html
     summary: Consiga que los datos de aplicaciones y los entornos de cloud estén listos
       para la privacidad.
     tags: all, governance, aws, azure, gcp
-  - title: Cloud Insights
-    icon: "./media/icon-monitoring.png"
-    url: https://docs.netapp.com/us-en/cloudinsights/
-    summary: Controle el rendimiento y el uso de sus cargas de trabajo del cloud.
-    tags: all, insights
-  - title: Cloud Sync
-    icon: "./media/icon-sync.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
-    summary: Sincronice datos entre almacenes de datos en las instalaciones y en el
-      cloud.
-    tags: all, aws, azure, gcp, mobility
-  - title: Organización en niveles del cloud
-    icon: "./media/icon-tiering.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
-    summary: Lleve su almacenamiento ONTAP en las instalaciones al cloud.
-    tags: all, aws, azure, gcp, mobility
+  - title: Operaciones de cloud (computación)
+    icon: "./media/icon-compute.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
+    summary: Obtenga visibilidad de sus gastos en tecnología cloud e identifique posibles
+      ahorros.
+    tags: all, aws, extension
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
@@ -124,13 +108,13 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/index.html
     summary: Asegure, proteja y acelere su almacenamiento de archivos.
     tags: all, storage, gcp
-  - title: Informática
-    icon: "./media/icon-compute.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
-    summary: Obtenga visibilidad de sus gastos en tecnología cloud e identifique posibles
-      ahorros.
-    tags: all, aws, extension
-  - title: Asesor digital (anteriormente Active IQ)
+  - title: Copia y sincronización (Cloud Sync)
+    icon: "./media/icon-sync.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
+    summary: Sincronice datos entre almacenes de datos en las instalaciones y en el
+      cloud.
+    tags: all, aws, azure, gcp, mobility
+  - title: Asesor digital (Active IQ)
     icon: "./media/icon-activeiq.png"
     url: https://docs.netapp.com/us-en/active-iq/index.html
     tags: all, health
@@ -152,7 +136,7 @@ product-family:
     summary: Identificar clusters con baja capacidad actual o prevista e implementar
       niveles de datos o recomendaciones adicionales de capacidad.
     tags: all, governance
-  - title: Caché de archivos global
+  - title: Almacenamiento en caché en el perímetro (Global File Cache)
     icon: "./media/icon-cache.png"
     url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
     summary: Haga posible el uso compartido de archivos global en tiempo real para
@@ -180,7 +164,13 @@ product-family:
     icon: "./media/icon-ransomware.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
     summary: Evalúe cómo la resiliencia de sus datos frente a un ataque cibernético.
-    tags: all, governance
+    tags: all, protection
+  - title: Solución (AppTemplate)
+    icon: "./media/icon-app-template.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
+    summary: Automatizar acciones en BlueXP para acelerar la provisión y eliminar
+      el trabajo manual.
+    tags: all, health
   - title: Replicación
     icon: "./media/icon-replication.png"
     url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
@@ -192,3 +182,8 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
     summary: Descubra y gestione sus sistemas StorageGRID.
     tags: all, storage
+  - title: Organización en niveles (organización en niveles del cloud)
+    icon: "./media/icon-tiering.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
+    summary: Lleve su almacenamiento ONTAP en las instalaciones al cloud.
+    tags: all, aws, azure, gcp, mobility
