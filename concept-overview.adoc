@@ -22,7 +22,7 @@ NetApp BlueXP es una evolución de Cloud Manager. BlueXP es un plano de control 
 
 BlueXP le permite gestionar todos sus activos de almacenamiento y datos desde una única interfaz.
 
-Puede usar BlueXP para crear y administrar almacenamiento en nube (por ejemplo, Cloud Volumes ONTAP y Azure NetApp Files), utilizar servicios de datos (por ejemplo, Cloud Backup y Cloud Data Sense) y controlar muchos dispositivos de almacenamiento local y periférico.
+Puedes utilizar BlueXP para crear y administrar almacenamiento en nube (por ejemplo, Cloud Volumes ONTAP y Azure NetApp Files), mover, proteger y analizar datos, y controlar muchos dispositivos de almacenamiento on-premises y perimetrales.
 
 * https://cloud.netapp.com["Obtenga más información en el sitio Web de BlueXP"^]
 * https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["Comience con BlueXP"^]
@@ -32,7 +32,7 @@ Puede usar BlueXP para crear y administrar almacenamiento en nube (por ejemplo, 
 
 == Nuevo menú de navegación
 
-En el menú de navegación de BlueXP, los servicios de datos se organizan ahora por categorías y se nombran según su funcionalidad. Por ejemplo, puede acceder a Cloud Backup en la categoría *Protección* y seleccionando *copia de seguridad y recuperación*.
+En el menú de navegación de BlueXP, los servicios ahora están organizados por categorías y se denominan según su funcionalidad. Por ejemplo, puedes acceder a la copia de seguridad y recuperación de BlueXP (Cloud Backup) desde la categoría *Protección*.
 
 image:screenshot-navigation-menu.png["Captura de pantalla del menú de navegación de BlueXP que muestra categorías como almacenamiento y salud."]
 
@@ -42,7 +42,7 @@ image:screenshot-navigation-menu.png["Captura de pantalla del menú de navegaci�
 
 * Ahora puede gestionar los bloques de Amazon S3 en las cuentas de AWS donde está instalado Connector.
 * Ahora puede gestionar más sistemas de almacenamiento en las instalaciones, como E-Series y StorageGRID.
-* Ahora puede usar servicios de datos que antes solo estén disponibles como servicio independiente con una interfaz de usuario independiente, como Digital Advisor (anteriormente Active IQ).
+* Ahora puedes utilizar servicios de datos que antes solo estaban disponibles como servicio independiente con una interfaz de usuario independiente, como el asesor digital de BlueXP (Active IQ).
 
 
 *Más información*
