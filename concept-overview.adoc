@@ -22,7 +22,7 @@ NetApp BlueXP es una evolución de Cloud Manager. BlueXP es un plano de control 
 
 BlueXP le permite gestionar todos sus activos de almacenamiento y datos desde una única interfaz.
 
-Puedes utilizar BlueXP para crear y administrar almacenamiento en nube (por ejemplo, Cloud Volumes ONTAP y Azure NetApp Files), mover, proteger y analizar datos, y controlar muchos dispositivos de almacenamiento on-premises y perimetrales.
+Puedes usar BlueXP para crear y administrar almacenamiento en nube (por ejemplo, Cloud Volumes ONTAP y Azure NetApp Files), para mover, proteger y analizar datos, y para controlar muchos dispositivos de almacenamiento on-premises y en la periferia.
 
 * https://cloud.netapp.com["Obtenga más información en el sitio Web de BlueXP"^]
 * https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["Comience con BlueXP"^]
