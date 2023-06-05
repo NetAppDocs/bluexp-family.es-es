@@ -141,6 +141,13 @@ product-family:
     summary: Gestión de datos avanzada de los clústeres de Kubernetes en el cloud
       híbrido.
     tags: all,storage,aws,azure
+  - title: Informes de migración
+    icon: "./media/icon-reports.png"
+    url: https://docs.netapp.com/us-en/bluexp-reports/index.html
+    summary: Identifique el número de archivos, la profundidad y la amplitud de los
+      árboles de sistemas de archivos, los archivos de mayor tamaño y mucho más en
+      su entorno de almacenamiento.
+    tags: all,storage
   - title: Clústeres de ONTAP en las instalaciones
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
