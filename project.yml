@@ -187,3 +187,9 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
     summary: Lleve su almacenamiento ONTAP en las instalaciones al cloud.
     tags: all,aws,azure,gcp,mobility
+  - title: Almacenamiento en caché de volúmenes
+    icon: "./media/icon-docs.png"
+    url: https://docs.netapp.com/us-en/bluexp-volume-caching/index.html
+    summary: Cree un volumen de caché editable para acelerar el acceso a los datos
+      o descargar el tráfico de volúmenes con un acceso frecuente.
+    tags: all,mobility
