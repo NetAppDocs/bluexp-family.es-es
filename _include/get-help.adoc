@@ -10,6 +10,10 @@ NetApp ofrece soporte para BlueXP y sus servicios cloud de diversas maneras. Hay
 
 Estas opciones están disponibles de forma gratuita, las 24 horas del día, los 7 días de la semana:
 
+* Documentación
++
+La documentación de BlueXP que está viendo actualmente.
+
 * https://kb.netapp.com/Cloud/BlueXP["Base de conocimientos"^]
 +
 Busque en la base de conocimientos de BlueXP para encontrar artículos útiles para resolver problemas.
@@ -17,10 +21,6 @@ Busque en la base de conocimientos de BlueXP para encontrar artículos útiles p
 * http://community.netapp.com/["Comunidades"^]
 +
 Únase a la comunidad de BlueXP para seguir los debates en curso o crear otros nuevos.
-
-* Documentación
-+
-La documentación de BlueXP que está viendo actualmente.
 
 * Correo:ng-cloudmanager-feedback@netapp.com[correo electrónico de comentarios]
 +
@@ -35,7 +35,9 @@ Apreciamos sus opiniones. Envíe sus comentarios para ayudarnos a mejorar BlueXP
 Además de las opciones de autosoporte anteriores, puede trabajar con un especialista de soporte de NetApp para resolver cualquier problema después de activar el soporte de.
 
 .Antes de empezar
-Para utilizar la capacidad *Crear un caso*, primero debe realizar un registro único del número de serie de su ID de cuenta de BlueXP (p. ej. 960xxxx) con NetApp. link:task-support-registration.html["Aprenda a registrarse para obtener soporte"].
+* Para utilizar la funcionalidad *Crear un caso*, primero debes asociar tus credenciales del sitio de soporte de NetApp con el inicio de sesión de BlueXP. https://docs.netapp.com/us-en/bluexp-setup-admin/task-manage-user-credentials.html["Descubre cómo gestionar las credenciales asociadas con tu inicio de sesión de BlueXP"^].
+* Si abre un caso para un sistema ONTAP que tiene un número de serie, su cuenta de NSS deberá estar asociada con el número de serie de ese sistema.
+
 
 .Pasos
 . En BlueXP, haga clic en *Ayuda > Soporte*.
@@ -81,7 +83,7 @@ Es posible que se encuentre el siguiente mensaje de error al intentar crear un c
 
 "No está autorizado a crear un caso en el servicio seleccionado"
 
-Este error podría significar que la cuenta NSS y la compañía de registro con la que está asociada no es la misma compañía de registro para el número de serie de la cuenta de BlueXP (es decir, 960xxxx) o el número de serie del entorno de trabajo. Puede consultar su lista de cuentas NSS en la parte superior del formulario *Crear un caso* para encontrar la coincidencia correcta, o puede buscar ayuda mediante una de las siguientes opciones:
+Este error podría significar que la cuenta NSS y la compañía de registro con la que está asociada no es la misma compañía de registro para el número de serie de la cuenta de BlueXP (es decir, 960xxxx) o el número de serie del entorno de trabajo. Puede solicitar ayuda utilizando una de las siguientes opciones:
 
 * Usar el chat en el producto
 * Envíe un caso no técnico en https://mysupport.netapp.com/site/help[]
