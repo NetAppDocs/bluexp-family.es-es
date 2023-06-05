@@ -245,4 +245,6 @@
   <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">Identifique el número de archivos, la profundidad y la amplitud de los árboles de sistemas de archivos, los archivos de mayor tamaño y mucho más en su entorno de almacenamiento.</block>
   <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">Almacenamiento en caché de volúmenes</block>
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">Cree un volumen de caché editable para acelerar el acceso a los datos o descargar el tráfico de volúmenes con un acceso frecuente.</block>
+  <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Almacenamiento de Azure Blob</block>
+  <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">Descubre y gestiona el almacenamiento de Azure Blob en tus suscripciones a Azure.</block>
 </blocks>
