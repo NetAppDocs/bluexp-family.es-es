@@ -2,7 +2,7 @@
 settings:
   name: BlueXP
   platform: cloud
-  search: bluexp-relnotes,bluexp-setup-admin,bluexp-cloud-volumes-ontap,bluexp-ontap-onprem,bluexp-azure-netapp-files,bluexp-fsx-ontap,bluexp-cloud-volumes-service-gcp,bluexp-kubernetes,bluexp-remediation,bluexp-backup-recovery,bluexp-copy-sync,bluexp-classification,bluexp-tiering,bluexp-ransomware-protection,bluexp-replication,bluexp-edge-caching,bluexp-cloud-ops,bluexp-automation,cloud-volumes-ontap-relnotes,bluexp-storagegrid,bluexp-e-series,bluexp-s3-storage,bluexp-economic-efficiency,bluexp-operational-resiliency,bluexp-digital-wallet
+  search: bluexp-relnotes,bluexp-setup-admin,bluexp-cloud-volumes-ontap,bluexp-ontap-onprem,bluexp-azure-netapp-files,bluexp-fsx-ontap,bluexp-cloud-volumes-service-gcp,bluexp-kubernetes,bluexp-remediation,bluexp-backup-recovery,bluexp-copy-sync,bluexp-classification,bluexp-tiering,bluexp-ransomware-protection,bluexp-replication,bluexp-edge-caching,bluexp-cloud-ops,bluexp-automation,cloud-volumes-ontap-relnotes,bluexp-storagegrid,bluexp-e-series,bluexp-s3-storage,bluexp-economic-efficiency,bluexp-operational-resiliency,bluexp-digital-wallet,bluexp-blob-storage,bluexp-reports,bluexp-volume-caching
   internal:
     pdf_enabled: false
   prod:
@@ -194,7 +194,7 @@ product-family:
     summary: Lleve su almacenamiento ONTAP en las instalaciones al cloud.
     tags: all,aws,azure,gcp,mobility
   - title: Almacenamiento en caché de volúmenes
-    icon: "./media/icon-docs.png"
+    icon: "./media/icon-volume-caching.png"
     url: https://docs.netapp.com/us-en/bluexp-volume-caching/index.html
     summary: Cree un volumen de caché editable para acelerar el acceso a los datos
       o descargar el tráfico de volúmenes con un acceso frecuente.
