@@ -247,4 +247,6 @@
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">Cree un volumen de caché editable para acelerar el acceso a los datos o descargar el tráfico de volúmenes con un acceso frecuente.</block>
   <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Almacenamiento de Azure Blob</block>
   <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">Descubre y gestiona el almacenamiento de Azure Blob en tus suscripciones a Azure.</block>
+  <block id="072d1a387472fb47fdfa33e48ff08ffd" category="sidebar">Panel de sostenibilidad</block>
+  <block id="bc955e300c1eb565285b1d3030f79321" category="sidebar">Analice la sostenibilidad de su sistema de almacenamiento.</block>
 </blocks>

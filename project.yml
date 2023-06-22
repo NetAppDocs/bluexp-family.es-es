@@ -188,6 +188,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-storagegrid/index.html
     summary: Descubra y gestione sus sistemas StorageGRID.
     tags: all,storage
+  - title: Panel de sostenibilidad
+    icon: "./media/icon-sustainability.png"
+    url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
+    summary: Analice la sostenibilidad de su sistema de almacenamiento.
+    tags: all,health
   - title: Organización en niveles (organización en niveles del cloud)
     icon: "./media/icon-tiering.png"
     url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
