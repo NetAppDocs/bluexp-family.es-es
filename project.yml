@@ -124,6 +124,12 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
     tags: all,governance
     summary: Administre y supervise sus licencias y suscripciones.
+  - title: Recuperación tras siniestros
+    icon: "./media/icon-disaster-recovery.png"
+    url: https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html
+    tags: all, protection
+    summary: Protege las cargas de trabajo de VMware on-premises usando VMware Cloud
+      on Amazon FSx para ONTAP como sitio de recuperación ante desastres.
   - title: Sistemas E-Series
     icon: "./media/icon-e-series.png"
     url: https://docs.netapp.com/us-en/bluexp-e-series/index.html
