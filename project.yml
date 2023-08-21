@@ -127,7 +127,7 @@ product-family:
   - title: Recuperación tras siniestros
     icon: "./media/icon-disaster-recovery.png"
     url: https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html
-    tags: all, protection
+    tags: all,protection
     summary: Protege las cargas de trabajo de VMware on-premises usando VMware Cloud
       on Amazon FSx para ONTAP como sitio de recuperación ante desastres.
   - title: Sistemas E-Series
