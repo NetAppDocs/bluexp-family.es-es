@@ -202,7 +202,7 @@ product-family:
     tags: all,storage
   - title: Panel de sostenibilidad
     icon: "./media/icon-sustainability.png"
-    url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
+    url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: Analice la sostenibilidad de sus sistemas de almacenamiento.
     tags: all,governance
   - title: Organización en niveles (organización en niveles del cloud)
