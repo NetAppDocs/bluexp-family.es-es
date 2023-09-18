@@ -118,7 +118,6 @@
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Clústeres de Kubernetes</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">Gestión de datos avanzada de los clústeres de Kubernetes en el cloud híbrido.</block>
   <block id="19874606c485ce682436c45308e50186" category="sidebar">Gestione sus sistemas AFF y FAS de NetApp desde BlueXP con los servicios de datos de System Manager y BlueXP.</block>
-  <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">Evalúe cómo la resiliencia de sus datos frente a un ataque cibernético.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">Replicación</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">Replicar datos entre sistemas de almacenamiento para dar soporte a backup y recuperación ante desastres</block>
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
@@ -179,7 +178,6 @@
   <block id="457d79994b70adbf238bafd0fea18cb2" category="sidebar">Asesor digital (Active IQ)</block>
   <block id="2049421a4e8e45e83cd7cf18ffc00a12" category="sidebar">Cartera digital</block>
   <block id="283a34872fecedd9a307e184eaf214e5" category="sidebar">Almacenamiento en caché en el perímetro (Global File Cache)</block>
-  <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">Protección contra ransomware</block>
   <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">Solución (AppTemplate)</block>
   <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">Organización en niveles (organización en niveles del cloud)</block>
   <block id="75d46f12940616f043309dfb109d814d" category="paragraph">En el menú de navegación de BlueXP, los servicios ahora están organizados por categorías y se denominan según su funcionalidad. Por ejemplo, puedes acceder a la copia de seguridad y recuperación de BlueXP (Cloud Backup) desde la categoría *Protección*.</block>
@@ -253,4 +251,6 @@
   <block id="85b9386ed443776127e099931d73448a" category="list-text">Cuando se le solicite, seleccione *continuar* para que se le redirija a una página de inicio de sesión de Microsoft.</block>
   <block id="645a84975202e30700b572b49a5ee29d" category="sidebar">Recuperación tras siniestros</block>
   <block id="c7b1fe992423d57d0e492585ff631c02" category="sidebar">Protege las cargas de trabajo de VMware on-premises usando VMware Cloud on Amazon FSx para ONTAP como sitio de recuperación ante desastres.</block>
+  <block id="d7a02621d52c29a3c5f7895e817cba5b" category="sidebar">Catálogo de automatización</block>
+  <block id="5d880ed9e8bc81eec72f5edb5332637d" category="sidebar">Use soluciones generadas por scripts para automatizar la implementación e integración de productos y servicios de NetApp.</block>
 </blocks>
