@@ -37,11 +37,6 @@ product-family:
   - title: Reducida
     tags: storage
   tiles:
-  - title: Bienvenido a BlueXP
-    icon: "./media/icon-docs.png"
-    url: concept-overview.html
-    summary: Más información sobre la introducción de BlueXP.
-    tags: all
   - title: Configuración y administración
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
@@ -87,18 +82,18 @@ product-family:
     summary: Servicio de almacenamiento de archivos de alto rendimiento para las aplicaciones
       principales de la empresa.
     tags: all,storage,azure
-  - title: Backup y recuperación de datos (Cloud Backup)
+  - title: Backup y recuperación
     icon: "./media/icon-backup.png"
     url: "../bluexp-backup-recovery/index.html"
     summary: Realice backups y restauraciones de datos en el cloud y en las instalaciones.
     tags: all,aws,azure,gcp,protection
-  - title: Clasificación (Cloud Data Sense)
+  - title: Clasificación
     icon: "./media/icon-data-sense.png"
     url: "../bluexp-classification/index.html"
     summary: Consiga que los datos de aplicaciones y los entornos de cloud estén listos
       para la privacidad.
     tags: all,governance,aws,azure,gcp
-  - title: Operaciones de cloud (computación)
+  - title: Operaciones de cloud
     icon: "./media/icon-compute.png"
     url: "../bluexp-cloud-ops/index.html"
     summary: Obtenga visibilidad de sus gastos en tecnología cloud e identifique posibles
@@ -115,7 +110,7 @@ product-family:
     url: "../bluexp-cloud-volumes-service-gcp/index.html"
     summary: Asegure, proteja y acelere su almacenamiento de archivos.
     tags: all,storage,gcp
-  - title: Copia y sincronización (Cloud Sync)
+  - title: Copiar y sincronizar
     icon: "./media/icon-sync.png"
     url: "../bluexp-copy-sync/index.html"
     summary: Sincronice datos entre almacenes de datos en las instalaciones y en el
@@ -149,7 +144,7 @@ product-family:
     summary: Identificar clusters con baja capacidad actual o prevista e implementar
       niveles de datos o recomendaciones adicionales de capacidad.
     tags: all,governance
-  - title: Almacenamiento en caché en el perímetro (Global File Cache)
+  - title: Almacenamiento en caché en el edge
     icon: "./media/icon-cache.png"
     url: "../bluexp-edge-caching/index.html"
     summary: Haga posible el uso compartido de archivos global en tiempo real para
@@ -185,7 +180,7 @@ product-family:
     summary: Implementar las soluciones de riesgo de configuración automatizadas del
       firmware y el software para mantener el estado de los clústeres ONTAP.
     tags: all,health
-  - title: Solución (AppTemplate)
+  - title: Reparación
     icon: "./media/icon-app-template.png"
     url: "../bluexp-remediation/index.html"
     summary: Automatizar acciones en BlueXP para acelerar la provisión y eliminar
@@ -207,7 +202,7 @@ product-family:
     url: "../active-iq/learn_BlueXP_sustainability.html"
     summary: Analice la sostenibilidad de sus sistemas de almacenamiento.
     tags: all,governance
-  - title: Organización en niveles (organización en niveles del cloud)
+  - title: Organización en niveles
     icon: "./media/icon-tiering.png"
     url: "../bluexp-tiering/index.html"
     summary: Lleve su almacenamiento ONTAP en las instalaciones al cloud.
