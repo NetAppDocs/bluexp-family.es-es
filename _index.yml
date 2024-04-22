@@ -179,12 +179,6 @@ product-family:
     summary: Detectar anomalías que puedan provocar ataques de ransomware. Proteja
       y recupere cargas de trabajo.
     tags: all,protection
-  - title: Reparación
-    icon: "./media/icon-app-template.png"
-    url: "../bluexp-remediation/index.html"
-    summary: Automatizar acciones en BlueXP para acelerar la provisión y eliminar
-      el trabajo manual.
-    tags: all,health
   - title: Replicación
     icon: "./media/icon-replication.png"
     url: "../bluexp-replication/index.html"
