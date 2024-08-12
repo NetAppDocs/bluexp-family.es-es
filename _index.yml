@@ -166,6 +166,12 @@ product-family:
     summary: Replicar datos entre sistemas de almacenamiento para dar soporte a backup
       y recuperación ante desastres
     tags: all,protection
+  - title: Actualizaciones de software
+    icon: "./media/icon-software-updates.png"
+    url: "../bluexp-software-updates/index.html"
+    summary: Automatice la evaluación, la planificación y la ejecución de las actualizaciones
+      de ONTAP.
+    tags: all,health
   - title: StorageGRID
     icon: "./media/icon-storagegrid.png"
     url: "../bluexp-storagegrid/index.html"
