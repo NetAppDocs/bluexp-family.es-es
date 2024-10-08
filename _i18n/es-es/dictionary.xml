@@ -219,9 +219,10 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Es necesario asociar las credenciales del sitio de soporte de NetApp con su organización de BlueXP  para habilitar los siguientes flujos de trabajo clave para Cloud Volumes ONTAP:</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">La asociación de credenciales de NSS a la organización de BlueXP  es diferente de la cuenta de NSS asociada con un inicio de sesión de usuario de BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Estas credenciales de NSS están asociadas con su ID de organización de BlueXP  específico. Los usuarios que pertenecen a la organización BlueXP  pueden acceder a estas credenciales desde *Soporte &gt; Administración de NSS*.</block>
-  <block id="9dab50acf79061ac1750da73c6252b67" category="sidebar">Conectores e IAM</block>
   <block id="423e555c5ec3885f2bb5d9d2d6627f63" category="sidebar">Supervisión</block>
   <block id="a0174df45f2d1f45e08cc7d39acff81f" category="sidebar">Aprenda a usar BlueXP  y a administrar la gestión de identidades y accesos, conectores y mucho más.</block>
   <block id="df583ae7ba964fd4806b55904da81813" category="sidebar">Alertas</block>
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">Vea problemas relacionados con la capacidad, la disponibilidad, el rendimiento, la protección y la seguridad de su entorno de ONTAP.</block>
+  <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">Conectores</block>
+  <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">Gestión de identidades y accesos</block>
 </blocks>

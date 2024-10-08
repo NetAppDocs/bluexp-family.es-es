@@ -15,14 +15,16 @@ product-family:
     class: active
   - title: API
     tags: api
-  - title: Conectores e IAM
-    tags: admin
+  - title: Conectores
+    tags: connectors
   - title: Extensiones
     tags: extension
   - title: Gobernanza
     tags: governance
   - title: Salud
     tags: health
+  - title: Gestión de identidades y accesos
+    tags: iam
   - title: Movilidad
     tags: mobility
   - title: Supervisión
@@ -37,7 +39,7 @@ product-family:
     url: "../bluexp-setup-admin/index.html"
     summary: Aprenda a usar BlueXP  y a administrar la gestión de identidades y accesos,
       conectores y mucho más.
-    tags: all,admin
+    tags: all,connectors,iam
   - title: Notas de la versión
     icon: "./media/icon-docs.png"
     url: "../bluexp-relnotes/index.html"
