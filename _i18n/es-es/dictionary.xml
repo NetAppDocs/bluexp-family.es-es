@@ -86,7 +86,6 @@
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">Información procesable para un estado óptimo del almacenamiento.</block>
   <block id="6b068f0a943d421535c7d8d412ee3522" category="sidebar">Sistemas E-Series</block>
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">Descubra los sistemas E-Series para obtener una visión completa de los datos en su multicloud híbrido.</block>
-  <block id="19874606c485ce682436c45308e50186" category="sidebar">Gestione sus sistemas AFF y FAS de NetApp desde BlueXP con los servicios de datos de System Manager y BlueXP.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">Replicación</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">Replicar datos entre sistemas de almacenamiento para dar soporte a backup y recuperación ante desastres</block>
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
@@ -225,4 +224,5 @@
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">Vea problemas relacionados con la capacidad, la disponibilidad, el rendimiento, la protección y la seguridad de su entorno de ONTAP.</block>
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">Conectores</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">Gestión de identidades y accesos</block>
+  <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">Gestione los clústeres de ONTAP en las instalaciones desde BlueXP  mediante System Manager y los servicios de datos de BlueXP .</block>
 </blocks>
