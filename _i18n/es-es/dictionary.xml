@@ -225,4 +225,6 @@
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">Conectores</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">Gestión de identidades y accesos</block>
   <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">Gestione los clústeres de ONTAP en las instalaciones desde BlueXP  mediante System Manager y los servicios de datos de BlueXP .</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Cargas de trabajo</block>
+  <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Diseña, configura y opera cargas de trabajo clave con Amazon FSx for NetApp ONTAP.</block>
 </blocks>
