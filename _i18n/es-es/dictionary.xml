@@ -74,7 +74,6 @@
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">Conozca las novedades de BlueXP.</block>
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">Utilice todas las funcionalidades de ONTAP como servicio nativo gestionado por AWS.</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">Administre sus recursos basados en la nube mediante programación.</block>
-  <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">Servicio de almacenamiento de archivos de alto rendimiento para las aplicaciones principales de la empresa.</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">Realice backups y restauraciones de datos en el cloud y en las instalaciones.</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">Consiga que los datos de aplicaciones y los entornos de cloud estén listos para la privacidad.</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">Sincronice datos entre almacenes de datos en las instalaciones y en el cloud.</block>
@@ -82,7 +81,6 @@
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">Haga que su almacenamiento en cloud sea más asequible, inteligente, conforme a las normativas y seguro.</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">Asegure, proteja y acelere su almacenamiento de archivos.</block>
-  <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">Obtenga visibilidad de sus gastos en tecnología cloud e identifique posibles ahorros.</block>
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">Información procesable para un estado óptimo del almacenamiento.</block>
   <block id="6b068f0a943d421535c7d8d412ee3522" category="sidebar">Sistemas E-Series</block>
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">Descubra los sistemas E-Series para obtener una visión completa de los datos en su multicloud híbrido.</block>
@@ -201,7 +199,6 @@
   <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">BlueXP de NetApp proporciona a su organización un único plano de control para crear, proteger y dirigir los datos entre sus entornos de cloud y en las instalaciones. Examine los documentos por área de producto o utilice la búsqueda anterior para buscar contenido en cualquier parte de los documentos de BlueXP.</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">Backup y recuperación</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">Clasificación</block>
-  <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">Operaciones de cloud</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">Copiar y sincronizar</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="sidebar">Organización en niveles</block>
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">Protección contra ransomware</block>
@@ -227,4 +224,5 @@
   <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">Gestione los clústeres de ONTAP en las instalaciones desde BlueXP  mediante System Manager y los servicios de datos de BlueXP .</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Cargas de trabajo</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Diseña, configura y opera cargas de trabajo clave con Amazon FSx for NetApp ONTAP.</block>
+  <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">Servicio de almacenamiento de archivos de alto rendimiento en Azure para sus aplicaciones de negocio principales.</block>
 </blocks>
