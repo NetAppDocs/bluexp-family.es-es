@@ -64,7 +64,6 @@
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">Toda la documentación de BlueXP</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Todo</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
-  <block id="5e2f5f3c24ae8c6ab3eca618826b0e23" category="sidebar">Extensiones</block>
   <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">Gobernanza</block>
   <block id="605669cab962bf944d99ce89cf9e58d9" category="sidebar">Salud</block>
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">Movilidad</block>
@@ -196,7 +195,6 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">Para obtener soporte técnico relacionado con un servicio de archivos del proveedor de cloud, su infraestructura o cualquier solución que utilice el servicio, consulte «Obtener ayuda» en la documentación de BlueXP para ese producto.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Para recibir soporte técnico específico sobre BlueXP y sus soluciones y servicios de almacenamiento, use las opciones de soporte descritas a continuación.</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp utiliza Microsoft Entra ID como proveedor de identidad para los servicios de autenticación específicos de soporte y licencias.</block>
-  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">BlueXP de NetApp proporciona a su organización un único plano de control para crear, proteger y dirigir los datos entre sus entornos de cloud y en las instalaciones. Examine los documentos por área de producto o utilice la búsqueda anterior para buscar contenido en cualquier parte de los documentos de BlueXP.</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">Backup y recuperación</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">Clasificación</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">Copiar y sincronizar</block>
@@ -225,4 +223,7 @@
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Cargas de trabajo</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Diseña, configura y opera cargas de trabajo clave con Amazon FSx for NetApp ONTAP.</block>
   <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">Servicio de almacenamiento de archivos de alto rendimiento en Azure para sus aplicaciones de negocio principales.</block>
+  <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">BlueXP de NetApp proporciona a su organización un único plano de control para crear, proteger y dirigir los datos entre sus entornos de cloud y en las instalaciones. Explore los documentos por área de producto o utilice la búsqueda superior para encontrar contenido.</block>
+  <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">Keystone</block>
+  <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">Acceda y administre su suscripción a Keystone desde BlueXP.</block>
 </blocks>

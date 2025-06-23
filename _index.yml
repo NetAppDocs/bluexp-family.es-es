@@ -3,12 +3,12 @@ product-family:
   title: Documentación de BlueXP
   lead: BlueXP de NetApp proporciona a su organización un único plano de control para
     crear, proteger y dirigir los datos entre sus entornos de cloud y en las instalaciones.
-    Examine los documentos por área de producto o utilice la búsqueda anterior para
-    buscar contenido en cualquier parte de los documentos de BlueXP.
+    Explore los documentos por área de producto o utilice la búsqueda superior para
+    encontrar contenido.
   summary: BlueXP de NetApp proporciona a su organización un único plano de control
     para crear, proteger y dirigir los datos entre sus entornos de cloud y en las
-    instalaciones. Examine los documentos por área de producto o utilice la búsqueda
-    anterior para buscar contenido en cualquier parte de los documentos de BlueXP.
+    instalaciones. Explore los documentos por área de producto o utilice la búsqueda
+    superior para encontrar contenido.
   sidebarlinks:
   - title: Todo
     tags: all
@@ -17,8 +17,6 @@ product-family:
     tags: api
   - title: Conectores
     tags: connectors
-  - title: Extensiones
-    tags: extension
   - title: Gobernanza
     tags: governance
   - title: Salud
@@ -147,6 +145,11 @@ product-family:
     icon: "./media/icon-google-cloud-storage.png"
     url: "../bluexp-google-cloud-storage/index.html"
     summary: Descubre y gestiona los buckets de Cloud Storage en tu cuenta de Google.
+    tags: all,storage
+  - title: Keystone
+    icon: "./media/icon-keystone.png"
+    url: "../keystone-staas/index.html"
+    summary: Acceda y administre su suscripción a Keystone desde BlueXP.
     tags: all,storage
   - title: Clústeres de ONTAP en las instalaciones
     icon: "./media/icon-onprem.png"
