@@ -226,4 +226,5 @@
   <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">BlueXP de NetApp proporciona a su organización un único plano de control para crear, proteger y dirigir los datos entre sus entornos de cloud y en las instalaciones. Explore los documentos por área de producto o utilice la búsqueda superior para encontrar contenido.</block>
   <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">Keystone</block>
   <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">Acceda y administre su suscripción a Keystone desde BlueXP.</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="sidebar">NetApp Volumes para Google Cloud</block>
 </blocks>
