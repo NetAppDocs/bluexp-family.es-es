@@ -71,7 +71,6 @@
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">Conozca las novedades de BlueXP.</block>
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">Utilice todas las funcionalidades de ONTAP como servicio nativo gestionado por AWS.</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">Administre sus recursos basados en la nube mediante programación.</block>
-  <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">Realice backups y restauraciones de datos en el cloud y en las instalaciones.</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">Consiga que los datos de aplicaciones y los entornos de cloud estén listos para la privacidad.</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">Sincronice datos entre almacenes de datos en las instalaciones y en el cloud.</block>
   <block id="c6844dc3fe4e51f03d9c9209b1f58fc4" category="sidebar">Lleve su almacenamiento ONTAP en las instalaciones al cloud.</block>
@@ -122,8 +121,6 @@
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Actualizar notas de caso*: Proporcione detalles adicionales sobre su problema o seleccione *cargar archivos* para adjuntar hasta un máximo de cinco archivos.</block>
   <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">Eficiencia económica</block>
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">Identificar clusters con baja capacidad actual o prevista e implementar niveles de datos o recomendaciones adicionales de capacidad.</block>
-  <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">Resiliencia operativa</block>
-  <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">Implementar las soluciones de riesgo de configuración automatizadas del firmware y el software para mantener el estado de los clústeres ONTAP.</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">Clústeres de ONTAP en las instalaciones</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">Configuración y administración</block>
@@ -226,4 +223,5 @@
   <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetApp ofrece soporte para BlueXP y sus servicios en la nube de diversas maneras. Disponemos de amplias opciones de autoasistencia gratuitas las 24 horas, los 7 días de la semana, como artículos de la base de conocimientos (KB) y un foro comunitario. Su registro de soporte incluye soporte técnico remoto mediante tickets web.</block>
   <block id="759d32287efdf88cd8ac71dccc0ecf8d" category="inline-image-macro">Una captura de pantalla que muestra un número de serie de cuenta, una casilla de verificación verde y el texto Registrado para recibir soporte.</block>
   <block id="4c441b388bebcddf8c08fb782095b864" category="paragraph"><block ref="4c441b388bebcddf8c08fb782095b864" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4102ee4dc04d405e046bf0c00b9f15a7" category="sidebar">Realice copias de seguridad y restaure datos locales y en la nube.</block>
 </blocks>
